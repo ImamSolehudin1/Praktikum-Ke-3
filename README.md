@@ -4,19 +4,17 @@
 # Menentukan Bilangan Terbesar dari 2 buah Bilangan
 
 1. Langkah pertama kita buka dulu aplikasi python, lalu klik new project.
-![Gambar](modul1/Latihan1/Lat1modul1/Latihan1/Lat1.png)
 2. Selanjutnya kita buat dulu perintah untuk menampilkan judul programnya. seperti berikut :
-![Gambar](modul1/Latihan1/Lat2.png)
+![Gambar](modul1/Latihan1/Lat1.png)
 3. Lalu kita mulai ke pembuatan programnya. disini kita buat program untuk memasukan bilangan. type data yang kita gunakan yaitu integer karna bilangan yang kita masukan adalah bilangan real. berikut contoh programnya :
-![Gambar](modul1/Latihan1/Lat3.png)
+![Gambar](modul1/Latihan1/Lat2.png)
 4. Kita gunakan perintah if dan else untuk mencari bilangan terbesarnya. Seperti contoh berikut :
-![Gambar](modul1/Latihan1/Lat4.png)
+![Gambar](modul1/Latihan1/Lat3.png)
 5. Setelah itu kita print untuk menampilkan hasil programnya.
-![Gambar](modul1/Latihan1/Lat5.png)
+![Gambar](modul1/Latihan1/Lat4.png)
 6. Berikut adalah Hasil nya. Disini saya menginput bilangan A=64 dan B=59. Berikut hasil programnya:
-![Gambar](modul1/Latihan1/Lat6.png)
+![Gambar](modul1/Latihan1/Lat5.png)
 7. Hasilnya adalah Bilangan A adalah bilangan terbesar.
-![Gambar](modul1/Latihan1/Lat7.png)
 
 # Tugas Latihan 2
 # Program Mengurutkan Bilangan Terkecil sampai Terbesar
