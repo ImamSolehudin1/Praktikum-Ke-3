@@ -27,7 +27,7 @@
 ![Gambar](modul1/Latihan2/Pic3.png)
 4. Setelah itu tekan F5 untuk cetak programnya.
 5. Disini kita disuruh memasukan bilangan. contohnya sebagai berikut:
-![Gambar](modul1/Latihan2/pict4.png)
+![Gambar](modul1/Latihan2/Pic4.png)
 6. Program telah selesai.
 
 # Tugas Latihan Perulangan 1
