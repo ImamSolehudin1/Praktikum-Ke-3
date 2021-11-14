@@ -20,14 +20,14 @@
 # Program Mengurutkan Bilangan Terkecil sampai Terbesar
 
 1. Langkah pertama kita buat judul program terlebih dahulu.
-![Gambar](modul/Latihan2/Pic1.png)
+![Gambar](modul1/Latihan2/Pic1.png)
 2. Selanjutnya ketikan perintah untuk memasukan bilangan yang akan ditampilkan. disini saya menggunakan perulangan for. contohnya sebagai beriku: 
-![Gambar](modul/Latihan2/Pic2.png.png)
+![Gambar](modul1/Latihan2/Pic2.png)
 3. Lalu kita ketikan perintah untuk mengurutkan data/bilangan yaitu list.sort(). berikut contohnya :
-![Gambar](modul/Latihan2/Pic3.png.png)
+![Gambar](modul1/Latihan2/Pic3.png)
 4. Setelah itu tekan F5 untuk cetak programnya.
 5. Disini kita disuruh memasukan bilangan. contohnya sebagai berikut:
-![Gambar](modul/Latihan2/Pic4.png.png)
+![Gambar](modul1/Latihan2/Pic4.png)
 6. Program telah selesai.
 
 # Tugas Latihan Perulangan 1
