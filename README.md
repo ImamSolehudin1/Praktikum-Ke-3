@@ -15,6 +15,8 @@
 6. Berikut adalah Hasil nya. Disini saya menginput bilangan A=64 dan B=59. Berikut hasil programnya:
 ![Gambar](modul1/Latihan1/Lat5.png)
 7. Hasilnya adalah Bilangan A adalah bilangan terbesar.
+8. Ini adalah flowchart dari program tersebut.
+![Gambar](modul1/1.1.png)
 
 # Tugas Latihan 2
 # Program Mengurutkan Bilangan Terkecil sampai Terbesar
@@ -29,6 +31,8 @@
 5. Disini kita disuruh memasukan bilangan. contohnya sebagai berikut:
 ![Gambar](modul1/Latihan2/Pic4.png)
 6. Program telah selesai.
+7. Ini adalah flowchart dari program tersebut.
+![Gambar](modul1/1.2.png)
 
 # Tugas Latihan Perulangan 1
 # Program Perulangan Bertingkat (Nested)
@@ -58,6 +62,8 @@ perulangan pertama kita mengurutkan angka 0-9. contohnya sebagai berikut :rogram
 ![Gambar]modul1/LatPerulangan1/per11.png)
 12. Berikut hasil programnya. 
 ![Gambar](modul1/LatPerulangan1/per12.png)
+13. Ini adalah flowchart dari program tersebut.
+![Gambar](modul1/1.3.png)
 
 # Tugas Latihan Perulangan 2
 # Menampilkan 5 buah Bilangan acak yang lebih kecil dari 0.5
@@ -71,6 +77,8 @@ perulangan pertama kita mengurutkan angka 0-9. contohnya sebagai berikut :rogram
 4. Langkah terakhir kita tekan F5 untuk cetak programnya.
 5. Berikut Hasil dari programnya, disini saya memasukan 5 bilangan acak. 
 ![Gambar](modul1/LatPerulangan2/L4.png)
+6. Ini adalah flowchart dari program tersebut.
+![Gambar](modul1/1.4.png)
 
 # Tugas Praktikum 2
 # Menampilkan Bilangan Terbesar dari 3 buah bilangan yang diinputkan
@@ -85,7 +93,8 @@ perulangan pertama kita mengurutkan angka 0-9. contohnya sebagai berikut :rogram
 ![Gambar](modul2/lat4.png)
 5. Lalu tekan F5 untuk menjalankan program. Berikut hasilnya :
 ![Gambar](modul2/lat5.png)
-
+6. Ini adalah flowchart dari program tersebut.
+![Gambar].(module2/2.1.png)
 # Tugas Latihan.py 1
 # Menampilkan 5 buah Data Bilangan acak yang lebih kecil dari 0.5
 
@@ -99,7 +108,8 @@ perulangan pertama kita mengurutkan angka 0-9. contohnya sebagai berikut :rogram
 ![Gambar](modul3/latihan1py/py4.png)
 5. Berikut Hasil dari programnya, disini saya memasukan 5 bilangan acak. 
 ![Gambar](modul3/latihan1py/py5.png)
-
+6. Ini adalah flowchart dari program tersebut.
+![Gambar](module3/1.png)
 # Tugas latihan.py 2
 # Menampilkan Bilangan Terbesar dari 7 buah bilangan yang diinputkan
 
@@ -113,6 +123,8 @@ perulangan pertama kita mengurutkan angka 0-9. contohnya sebagai berikut :rogram
 ![Gambar](modul3/latihan2py/4py.png)
 5. Lalu tekan F5 untuk menjalankan program. Berikut hasilnya :
 ![Gambar](modul3/latihan2py/5py.png)
+6. Ini adalah flowchart dari program tersebut.
+![Gambar](modul3/2.png)
 
 # Tugas Latihan.py.3
 # Program Menghitung Total Keuntungan
@@ -125,3 +137,5 @@ perulangan pertama kita mengurutkan angka 0-9. contohnya sebagai berikut :rogram
 ![Gambar](modul3/latihan3py/pyt3.png)
 4. Tekan F5 untuk menjalankan program. berikut hasil programnya :
 ![Gambar](modul3/latihan3py/pyt4.png)
+5. Ini adalah flowchart dari program tersebut.
+![Gambar](modul3/3.png)
