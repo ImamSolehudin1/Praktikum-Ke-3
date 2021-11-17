@@ -94,7 +94,7 @@ perulangan pertama kita mengurutkan angka 0-9. contohnya sebagai berikut :rogram
 5. Lalu tekan F5 untuk menjalankan program. Berikut hasilnya :
 ![Gambar](modul2/lat5.png)
 6. Ini adalah flowchart dari program tersebut.
-![Gambar].(modul2/2.1.png)
+![Gambar](modul2/2.1.png)
 
 # Tugas Latihan.py 1
 # Menampilkan 5 buah Data Bilangan acak yang lebih kecil dari 0.5
